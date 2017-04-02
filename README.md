@@ -46,10 +46,10 @@ byte array convert to object :
         assertArrayEquals(new byte[]{83,74,49,50,51,52,0,98},bytes);
     }
     
- objectbyte convert to array:
+ object convert to byte array:
   
 
-    enter code here
+    
      public void bytes2entity() throws Exception {
         byte[] bytes = new byte[]{83,74,49,50,51,52,0,98};
         DeviceInfo mDeviceInfo = new DeviceInfo();
