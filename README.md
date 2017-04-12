@@ -1,14 +1,18 @@
 # IotConverter
 
 **Intruduction:**
-IotFieldConverter is a tool which is mainly used in device management.
-**usage:**
-In the Iot development.we often  encounter such a scenario:
+IotFieldConverter is a tool which is mainly used in device management.     
+
+**usage:**                 
+
+In the Iot development.we often  encounter such a scenario:         
 
 ![image](https://github.com/roninCoderJ/IotConverter/raw/master/Pic/a.png)
 
-byte array convert to object :
-2 steps:
+byte array convert to object :       
+
+2 steps:   
+
 1.Use IotField annotation:
 
     public class DeviceInfo {
